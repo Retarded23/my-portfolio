@@ -1,0 +1,38 @@
+body{
+    background-color:lightgoldenrodyellow;
+}
+
+
+
+.first{
+    background-color: aquamarine;
+    color:black;
+    text-align: center;
+    text-shadow: 2px;
+    text-decoration: wavy ;
+    text-decoration-line: underline;
+    text-decoration-color:crimson;
+    padding:2px;
+    margin: 4px 450px ;
+    border: 5px violet ridge;
+}
+.second{
+    text-align: center;
+    padding: 20px;
+    margin: 30px;
+    border: 4px red double ;    
+    margin: 5px 500px;  
+}
+.third{
+    background-color: aquamarine;
+    border-color: violet;
+    border-style: groove;
+    margin-right: 950px;
+}
+.fourth{
+    text-align: center;
+    border: 4px red double ; 
+    padding: 95px 10px 0px 10px;
+    
+    
+}
